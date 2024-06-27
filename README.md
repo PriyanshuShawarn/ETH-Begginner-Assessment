@@ -59,4 +59,4 @@ For common issues or problems, you can refer to the Remix IDE documentation or c
 Authors
 Contributors names and contact info:
 
-Priyanshu Shawarn (priyanshishawarn8183@gmail.com)
+Priyanshu Shawarn (priyanshushawarn8183@gmail.com)
